@@ -8,7 +8,7 @@ function initMap() {
     });
     const marker = new google.maps.Marker({
       position: tutionCenter,
-      icon: '/MatheMagic/images/marker_1.png',
+      icon: '/matheMagic/images/marker_1.png',
       map: map,
     });
   }
