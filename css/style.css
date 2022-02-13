@@ -12,7 +12,7 @@
 }
 
 body {
-    background-image: url("../images/bg_1.jpg");
+    background-image: url("/matheMagic/images/bg_1.jpg");
     background-attachment: fixed;
     z-index: -10;
 }
@@ -871,7 +871,7 @@ body {
     right: 25px;
     width: 24px;
     height: 24px;
-    background: url("../images/valid.png");
+    background: url("/matheMagic/images/valid.png");
     background-size: cover;
     z-index: 11;
     animation-name: valid;
@@ -885,7 +885,7 @@ body {
     right: 25px;
     width: 24px;
     height: 24px;
-    background: url("../images/invalid.png");
+    background: url("/matheMagic/images/invalid.png");
     background-size: cover;
     z-index: 11;
     animation-name: invalid;
