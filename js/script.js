@@ -99,7 +99,7 @@ VanillaTilt.init(document.querySelectorAll(".aboutCardLayout"), {
     speed: 400,
 });
 VanillaTilt.init(document.querySelectorAll(".contactCardLayout"), {
-    max: 15,
+    max: 5,
     speed: 400,
 });
 }
@@ -122,7 +122,7 @@ VanillaTilt.init(document.querySelectorAll(".aboutCardLayout"), {
   speed: 400,
 });
 VanillaTilt.init(document.querySelectorAll(".contactCardLayout"), {
-  max: 15,
+  max: 5,
   speed: 400,
 });
 }
@@ -145,7 +145,7 @@ VanillaTilt.init(document.querySelectorAll(".aboutCardLayout"), {
   speed: 400,
 });
 VanillaTilt.init(document.querySelectorAll(".contactCardLayout"), {
-  max: 15,
+  max: 5,
   speed: 400,
 });
 }
